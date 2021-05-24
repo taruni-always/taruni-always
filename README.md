@@ -24,6 +24,7 @@ Here are some ideas to get you started:
  </h3>
 
  <p align = "center"> <img src="https://github-readme-stats.vercel.app/api?username=taruni-always&show_icons=true&theme=vision-friendly-dark" alt = taruni-always" /> </p>
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=taruni-always&layout=compact" align = "center"> -->
 
 
 
